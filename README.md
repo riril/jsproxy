@@ -1,1 +1,1 @@
-# jsproxy-cfworker
+# jsproxy
