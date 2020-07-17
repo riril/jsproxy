@@ -1,3 +1,0 @@
-# jsproxy-cfworker
-
-gh-pages
